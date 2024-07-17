@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/AffanRM/sunnyside-agency-landing-page)
+- Live Site URL: (https://affanrm.github.io/sunnyside-agency-landing-page/)
 
 ## My process
 
@@ -42,6 +42,6 @@ How to create a responsive navbar (the one with a hamburger icon) for mobile dis
 ## Author
 
 - Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@AffanRM](https://www.frontendmentor.io/profile/AffanRM)
 
 
